@@ -33,7 +33,7 @@
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/R1Sobriquet/Paper-Push-Simulator
 cd Paper-Push-Simulator
 
 # Install dependencies
